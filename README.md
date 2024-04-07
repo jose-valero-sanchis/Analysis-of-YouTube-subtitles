@@ -11,4 +11,4 @@ Este proyecto consta de un conjunto de herramientas en Python para realizar web 
 
 1. Clona este repositorio en tu máquina local:
 
-> git clone [https://github.com/tunombredeusuario/nombre-de-tu-repo.git](https://github.com/jose-valero-sanchis/Analysis-of-YouTube-subtitles.git)
+> git clone https://github.com/jose-valero-sanchis/Analysis-of-YouTube-subtitles.git
