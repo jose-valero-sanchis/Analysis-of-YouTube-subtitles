@@ -1,5 +1,7 @@
 # Analysis of YouTube subtitles
 
+[![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
 This project consists of a set of Python tools for web scraping YouTube channels, obtaining information and statistics about their videos, as well as analyzing the transcriptions of those videos to extract keywords and trends.
 
 ## Prerequisites
